@@ -4,7 +4,7 @@ A **Smart Recipe Generator** built with Streamlit that allows you to detect ingr
 
 ## 🔥 Features
 
-- **Ingredient Detection**: Upload a kitchen image, and the app detects ingredients using YOLOv7.
+- **Ingredient Detection**: Upload a kitchen image, and the app detects ingredients using YOLOv11.
 - **Recipe Generation**: Generate custom recipes based on the detected ingredients.
 - **Interactive Interface**: Easy-to-use Streamlit interface for a seamless user experience.
 
