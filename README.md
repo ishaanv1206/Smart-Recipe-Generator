@@ -12,7 +12,7 @@ A **Smart Recipe Generator** built with Streamlit that allows you to detect ingr
 
 - **Python**
 - **Streamlit** for the user interface
-- **YOLOv7** for ingredient detection
+- **YOLOv11** for ingredient detection
 - **LangChain** for recipe generation
 
 ## 🛠 Usage
